@@ -42,7 +42,7 @@ pneumonia-detector/
 
 1. Clone repository
 
-git clone https://github.com/sanam25/pneumonia-detector.git
+git clone https://github.com/biswasjake-wq/An-AI-Detector-for-Pneumonia
 cd pneumonia-detector
 2. Run backend
 
