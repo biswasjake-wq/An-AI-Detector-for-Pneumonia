@@ -77,7 +77,9 @@ This project is for educational purposes only and should not be used for real me
 👨‍💻 Author
 
 Your Name
-GitHub: https://github.com/sanam25
+
+https://github.com/biswasjake-wq
+
 ⭐ Acknowledgment
 
 This project demonstrates end-to-end deployment of an AI model using modern web technologies.
