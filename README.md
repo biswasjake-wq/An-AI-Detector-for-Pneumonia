@@ -54,6 +54,7 @@ uvicorn app:app --reload
 Open:
 
 frontend/index.html
+
 🐳 Docker Setup
 
 Build image
